@@ -4,5 +4,7 @@ It skips Chapter 1 and Chapter 2 since those first two chapters do not have sign
 
 Author: Bjarne Stroustrup
 
+![Textbook Cover](img/bs-cplusplus.jpg)
+
 ## Chapters
 - Chapter 3: Objects, Types, and Values
