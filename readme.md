@@ -8,3 +8,4 @@ Author: Bjarne Stroustrup
 
 ## Chapters
 - Chapter 3: Objects, Types, and Values
+- Chapter 4: Expressions
