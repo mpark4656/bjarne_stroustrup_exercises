@@ -16,3 +16,8 @@ add_executable(c3q11 chapter3/q11.cpp)
 
 add_executable(c4q2 chapter4/q2.cpp)
 add_executable(c4q3 chapter4/q3.cpp)
+add_executable(c4q4 chapter4/q4.cpp)
+add_executable(c4q5 chapter4/q5.cpp)
+add_executable(c4q8 chapter4/q8.cpp)
+add_executable(c4q11 chapter4/q11.cpp)
+add_executable(c4q13 chapter4/q13.cpp)
